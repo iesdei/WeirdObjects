@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WeirdObjects",
+	"Description": "IESDEI_COOL",
+	"Category": "Other",
+	"CreatedBy": "iesdei",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.20.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false
+}
